@@ -1,0 +1,7 @@
+
+git init
+git add .
+git commit -m "meaningful text"
+git branch -M main
+git remote add origin https://github.com/khalidhasan-m/myportfolio.git
+git push -u origin main 
